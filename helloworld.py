@@ -1,1 +1,1 @@
-print("This is the new changes.")
+print("This is changes.")
